@@ -35,7 +35,7 @@
 
 ### UML
 
-<img src="https://hackmd.io/_uploads/rJuzulDUn.png" height="600"/>
+<img src="https://github.com/h-suo/ios-calculator-app/assets/109963294/2d65f2ba-ce48-4a0e-9e08-2d32aa6070f4" height="600"/>
 
 </br>
 
