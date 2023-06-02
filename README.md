@@ -237,7 +237,5 @@ struct CalculatorItemQueue {
 - [📚 위키백과-시간 복잡도](https://ko.wikipedia.org/wiki/시간_복잡도)
 - [😺 GitHub-Queue](https://github.com/jeonyeohun/Data-Structures-In-Swift/tree/main/Queue)
 - [🗒️ Swift 로 Queue 구현하기](https://trumanfromkorea.tistory.com/37)
-- [🗒️ 마법 같은 Swift 제네릭 이야기](https://techblog.zepeto.me/마법-같은-swift-제네릭-이야기-2c222ae2798)
-- [🗒️ Swift 성능 - 2. 프로토콜로 값타입 다형성 지원하기](https://velog.io/@yohanblessyou/Apple-Understanding-Swift-Performance-2.-프로토콜로-value-type-다형성-지원하기#-existential-container)
 
 ---
